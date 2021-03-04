@@ -1,6 +1,6 @@
 # Who-pythonbot
 This is my first discosd bot made with python
 
-message.py - Do not use commands
+message.py - do not use commands
 
 KongKongcommand.py - use commands and cogs
